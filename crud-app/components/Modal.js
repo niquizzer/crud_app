@@ -1,8 +1,10 @@
 const Modal = () => {
 
-    return(<div>
+    return(
+    <div>
         This is a modal
-    </div>);
+    </div>
+    );
 }
 
 export default Modal;
